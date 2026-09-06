@@ -1,0 +1,25 @@
+[
+  {
+    "ok": true,
+    "source": "orders.csv",
+    "record": {
+      "order_id": "O-104",
+      "customer_id": "C-01",
+      "paid_sgd": "120.00",
+      "days_since_delivery": "12",
+      "receipt": "true"
+    }
+  },
+  {
+    "ok": false,
+    "error": "not found or not authorised"
+  },
+  {
+    "ok": false,
+    "error": "tool denied"
+  },
+  {
+    "ok": false,
+    "error": "invalid arguments"
+  }
+]

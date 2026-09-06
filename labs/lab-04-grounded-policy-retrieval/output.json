@@ -1,0 +1,39 @@
+[
+  {
+    "question_id": "Q01",
+    "retriever": "lexical overlap baseline",
+    "hits": [
+      {
+        "policy_id": "POL-01",
+        "clause": "Refunds within 30 days require a receipt and a matching order."
+      },
+      {
+        "policy_id": "POL-02",
+        "clause": "Damaged goods must be reviewed by support before a refund is approved."
+      }
+    ],
+    "requires_claim_verification": true
+  },
+  {
+    "question_id": "Q02",
+    "retriever": "lexical overlap baseline",
+    "hits": [
+      {
+        "policy_id": "POL-03",
+        "clause": "Payment execution requires a separate authenticated finance approval."
+      }
+    ],
+    "requires_claim_verification": true
+  },
+  {
+    "question_id": "Q03",
+    "retriever": "lexical overlap baseline",
+    "hits": [
+      {
+        "policy_id": "POL-01",
+        "clause": "Refunds within 30 days require a receipt and a matching order."
+      }
+    ],
+    "requires_claim_verification": true
+  }
+]

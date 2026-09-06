@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.claude/
+.codex/
+assessment/
+reference/
+course_application/
+qa/
+__pycache__/
+.DS_Store

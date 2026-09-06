@@ -1,0 +1,40 @@
+{
+  "initialization": "random; training from scratch, not pretrained fine-tuning",
+  "synthetic_data": true,
+  "selected_strategy": "baseline_settings",
+  "selection_validation_macro_f1": 1.0,
+  "transformer_test": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "confusion_matrix": [
+      [
+        6,
+        0
+      ],
+      [
+        0,
+        6
+      ]
+    ]
+  },
+  "count_baseline_test": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "confusion_matrix": [
+      [
+        6,
+        0
+      ],
+      [
+        0,
+        6
+      ]
+    ]
+  },
+  "split_sizes": {
+    "train": 72,
+    "validation": 12,
+    "test": 12
+  },
+  "limitations": "Tiny synthetic curriculum data; no production quality claim. Vocabulary is a fixed classroom specification, not learned from test labels."
+}

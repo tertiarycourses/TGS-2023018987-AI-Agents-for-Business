@@ -1,0 +1,13 @@
+{
+  "task_id": "ONBOARD-S01",
+  "role": "operations_assistant",
+  "input_refs": [
+    "HR-01",
+    "HR-02"
+  ],
+  "allowed_actions": [
+    "prepare_checklist"
+  ],
+  "owner_role": "HR reviewer",
+  "unresolved_questions": []
+}

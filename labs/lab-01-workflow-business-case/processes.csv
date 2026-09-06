@@ -1,0 +1,5 @@
+process_id,volume_per_month,manual_minutes,review_minutes,platform_cost_sgd
+support_triage,1000,8,3,150
+invoice_review,200,15,8,200
+lead_brief,100,30,12,120
+hr_checklist,20,45,20,80

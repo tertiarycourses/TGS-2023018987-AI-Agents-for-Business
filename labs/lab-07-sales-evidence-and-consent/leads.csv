@@ -1,0 +1,5 @@
+lead_id,source_id,company,fit,need,readiness,consent
+L-01,SRC-01,Merlion Supply,1,1,0,true
+L-02,SRC-02,Orchid Services,1,0,0,false
+L-03,SRC-03,Harbour Retail,1,1,1,true
+L-04,SRC-04,Garden Studio,0,1,0,false

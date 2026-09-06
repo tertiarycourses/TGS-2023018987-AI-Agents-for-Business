@@ -1,0 +1,4 @@
+question_id,question,expected_policy_id
+Q01,Does a refund require a receipt?,POL-01
+Q02,Who approves payment execution?,POL-03
+Q03,Is international shipping guaranteed in two days?,NONE

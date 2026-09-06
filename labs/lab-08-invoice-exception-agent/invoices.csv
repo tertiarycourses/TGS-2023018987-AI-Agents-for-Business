@@ -1,0 +1,5 @@
+row_id,invoice_id,vendor_id,po_id,quantity,unit_price
+I1,INV-100,V-01,PO-01,12,25
+I2,INV-100,V-01,PO-01,12,25
+I3,INV-101,V-02,PO-02,4,50
+I4,INV-102,V-03,PO-99,5,20

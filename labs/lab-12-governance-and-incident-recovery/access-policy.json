@@ -1,0 +1,10 @@
+{
+  "customer_scope": "C-01",
+  "allowed_tools": [
+    "lookup_order",
+    "issue_refund"
+  ],
+  "write_tool": "issue_refund",
+  "require_authenticated_approval": true,
+  "stop_overrides_approval": true
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": "A1",
+    "allowed": true,
+    "simulation": true,
+    "note": "Approval column represents a trusted harness input, never a model assertion."
+  },
+  {
+    "case_id": "A2",
+    "allowed": false,
+    "simulation": true,
+    "note": "Approval column represents a trusted harness input, never a model assertion."
+  },
+  {
+    "case_id": "A3",
+    "allowed": false,
+    "simulation": true,
+    "note": "Approval column represents a trusted harness input, never a model assertion."
+  },
+  {
+    "case_id": "A4",
+    "allowed": false,
+    "simulation": true,
+    "note": "Approval column represents a trusted harness input, never a model assertion."
+  },
+  {
+    "case_id": "A5",
+    "allowed": false,
+    "simulation": true,
+    "note": "Approval column represents a trusted harness input, never a model assertion."
+  }
+]

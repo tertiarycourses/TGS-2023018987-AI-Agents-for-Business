@@ -1,0 +1,5 @@
+run_id,success,processing_minutes,review_minutes,cost_sgd
+R1,1,1,2,0.2
+R2,1,1,3,0.3
+R3,0,2,4,0.5
+R4,1,1,2,0.2

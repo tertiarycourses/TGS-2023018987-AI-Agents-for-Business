@@ -1,0 +1,11 @@
+ticket_id,text,label
+T01,the brown fox jumps over the lazy dog,neutral
+T02,the delivery was not good,negative
+T03,the support was helpful,positive
+T04,redelivery was delayed,negative
+T05,please refund the damaged order,negative
+T06,excellent service and quick delivery,positive
+T07,not unhappy with the support,mixed
+T08,the order is late but support is helpful,mixed
+T09,the account was accessed without permission,urgent
+T10,delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery delivery,long

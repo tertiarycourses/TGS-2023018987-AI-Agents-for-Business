@@ -1,0 +1,26 @@
+{
+  "simulation": true,
+  "requests": [
+    {
+      "request_id": "R-01",
+      "state": "pending_human_approval",
+      "executed": false
+    },
+    {
+      "request_id": "R-02",
+      "state": "needs_receipt",
+      "executed": false
+    },
+    {
+      "request_id": "R-03",
+      "state": "duplicate_previous_request",
+      "executed": false
+    }
+  ],
+  "ledger": {
+    "refund-O104": {
+      "state": "pending_human_approval",
+      "amount": "120"
+    }
+  }
+}

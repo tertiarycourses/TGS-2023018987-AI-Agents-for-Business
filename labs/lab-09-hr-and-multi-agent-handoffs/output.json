@@ -1,0 +1,18 @@
+{
+  "task_id": "ONBOARD-S01",
+  "checklist": [
+    {
+      "policy_id": "HR-01",
+      "version": "2026-09-01",
+      "role": "operations_assistant",
+      "requirement": "Safety briefing"
+    },
+    {
+      "policy_id": "HR-02",
+      "version": "2026-09-01",
+      "role": "operations_assistant",
+      "requirement": "Assigned mentor"
+    }
+  ],
+  "owner_role": "HR reviewer"
+}

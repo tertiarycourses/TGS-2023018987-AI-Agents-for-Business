@@ -1,0 +1,37 @@
+[
+  {
+    "invoice_id": "INV-100",
+    "row_id": "I1",
+    "variance_sgd": "50",
+    "flags": [
+      "quantity_mismatch"
+    ],
+    "payment_authorised": false
+  },
+  {
+    "invoice_id": "INV-100",
+    "row_id": "I2",
+    "variance_sgd": "50",
+    "flags": [
+      "duplicate",
+      "quantity_mismatch"
+    ],
+    "payment_authorised": false
+  },
+  {
+    "invoice_id": "INV-101",
+    "row_id": "I3",
+    "variance_sgd": "0",
+    "flags": [],
+    "payment_authorised": false
+  },
+  {
+    "invoice_id": "INV-102",
+    "row_id": "I4",
+    "variance_sgd": null,
+    "flags": [
+      "missing_po_or_receipt"
+    ],
+    "payment_authorised": false
+  }
+]

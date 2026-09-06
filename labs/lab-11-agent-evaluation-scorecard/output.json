@@ -1,0 +1,12 @@
+{
+  "tp": 18,
+  "fn": 2,
+  "fp": 6,
+  "tn": 74,
+  "precision": 0.75,
+  "recall": 0.9,
+  "accuracy": 0.92,
+  "success_rate": 0.75,
+  "cost_per_success_sgd": 0.39999999999999997,
+  "synthetic": true
+}

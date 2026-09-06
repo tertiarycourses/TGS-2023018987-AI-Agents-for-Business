@@ -1,0 +1,4 @@
+request_id,order_id,receipt,amount_sgd,operation_id
+R-01,O-104,true,120,refund-O104
+R-02,O-104,false,120,refund-O104-missing
+R-03,O-104,true,120,refund-O104

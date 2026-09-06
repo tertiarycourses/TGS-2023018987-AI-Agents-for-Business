@@ -1,0 +1,5 @@
+policy_id,version,role,clause
+POL-01,2026-09-01,support,Refunds within 30 days require a receipt and a matching order.
+POL-02,2026-09-01,support,Damaged goods must be reviewed by support before a refund is approved.
+POL-03,2026-09-01,support,Payment execution requires a separate authenticated finance approval.
+POL-04,2026-09-01,operations,New operations staff require a safety briefing and an assigned mentor.

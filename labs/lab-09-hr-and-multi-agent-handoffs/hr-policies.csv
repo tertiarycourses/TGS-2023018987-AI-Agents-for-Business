@@ -1,0 +1,4 @@
+policy_id,version,role,requirement
+HR-01,2026-09-01,operations_assistant,Safety briefing
+HR-02,2026-09-01,operations_assistant,Assigned mentor
+HR-03,2026-09-01,manager,Approval-system training

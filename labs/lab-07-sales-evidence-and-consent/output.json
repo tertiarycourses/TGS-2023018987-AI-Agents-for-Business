@@ -1,0 +1,46 @@
+[
+  {
+    "lead_id": "L-01",
+    "source_id": "SRC-01",
+    "company": "Merlion Supply",
+    "fit": "1",
+    "need": "1",
+    "readiness": "0",
+    "consent": "true",
+    "score": 75,
+    "action": "draft_only"
+  },
+  {
+    "lead_id": "L-02",
+    "source_id": "SRC-02",
+    "company": "Orchid Services",
+    "fit": "1",
+    "need": "0",
+    "readiness": "0",
+    "consent": "false",
+    "score": 40,
+    "action": "research_only"
+  },
+  {
+    "lead_id": "L-03",
+    "source_id": "SRC-03",
+    "company": "Harbour Retail",
+    "fit": "1",
+    "need": "1",
+    "readiness": "1",
+    "consent": "true",
+    "score": 100,
+    "action": "draft_only"
+  },
+  {
+    "lead_id": "L-04",
+    "source_id": "SRC-04",
+    "company": "Garden Studio",
+    "fit": "0",
+    "need": "1",
+    "readiness": "0",
+    "consent": "false",
+    "score": 35,
+    "action": "research_only"
+  }
+]

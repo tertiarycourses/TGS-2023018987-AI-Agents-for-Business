@@ -1,0 +1,34 @@
+[
+  {
+    "process_id": "support_triage",
+    "volume_per_month": "1000",
+    "manual_minutes": "8",
+    "review_minutes": "3",
+    "platform_cost_sgd": "150",
+    "hours_released": 83.33
+  },
+  {
+    "process_id": "invoice_review",
+    "volume_per_month": "200",
+    "manual_minutes": "15",
+    "review_minutes": "8",
+    "platform_cost_sgd": "200",
+    "hours_released": 23.33
+  },
+  {
+    "process_id": "lead_brief",
+    "volume_per_month": "100",
+    "manual_minutes": "30",
+    "review_minutes": "12",
+    "platform_cost_sgd": "120",
+    "hours_released": 30.0
+  },
+  {
+    "process_id": "hr_checklist",
+    "volume_per_month": "20",
+    "manual_minutes": "45",
+    "review_minutes": "20",
+    "platform_cost_sgd": "80",
+    "hours_released": 8.33
+  }
+]

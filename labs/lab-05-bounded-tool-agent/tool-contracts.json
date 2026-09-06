@@ -1,0 +1,15 @@
+{
+  "lookup_order": {
+    "arguments": {
+      "order_id": "string"
+    },
+    "customer_scope": "C-01"
+  },
+  "search_policy": {
+    "arguments": {
+      "query": "string"
+    }
+  },
+  "max_turns": 6,
+  "writes_allowed": false
+}

@@ -1,0 +1,4 @@
+order_id,customer_id,paid_sgd,days_since_delivery,receipt
+O-104,C-01,120.00,12,true
+O-105,C-01,80.00,40,true
+O-999,C-99,900.00,5,true

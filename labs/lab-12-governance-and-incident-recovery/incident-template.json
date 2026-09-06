@@ -1,0 +1,10 @@
+{
+  "incident_id": "INC-01",
+  "owner_role": "operations_lead",
+  "containment": "",
+  "evidence": [],
+  "transaction_readback": "",
+  "rollback": "",
+  "in_flight_work": "",
+  "regression_test": ""
+}
